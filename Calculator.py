@@ -10,4 +10,10 @@ def subtract (a,b):
 def multiply(a,b):
     return a*b
 
+#This function divides two numbers
+def divide(a,b):
+    return a / b
+
+
+print("Select Operation.")
 
